@@ -22,8 +22,8 @@ This is a minimal web3 DApp that demonstrates how to use [Privy Embedded Wallets
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/bnb-pingpong.git
-cd bnb-pingpong
+git clone https://github.com/OX5QMUTEB/example-hub.git
+cd example-hub/typescript/privy-MPC-wallet-contract-call
 ```
 
 ### 2. Install dependencies
